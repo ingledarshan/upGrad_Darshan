@@ -1,0 +1,6 @@
+StudentID,Name,Gender,Grade,MathScore,EnglishScore,ScienceScore,TotalScore
+1,Alice Johnson,Female,10,78,85,80,243
+2,Bob Smith,Male,9,88,76,90,254
+3,Carol White,Female,11,92,89,95,276
+4,David Brown,Male,10,65,70,68,203
+5,Eva Green,Female,9,55,60,58,173
